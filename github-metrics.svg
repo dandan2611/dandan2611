@@ -287,7 +287,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>arocketman/VisFX</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Easy to use access to vis.js network graph through javaFX</div>
@@ -340,7 +340,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kubernetes-sigs/kubespray</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Deploy a Production Ready Kubernetes Cluster</div>
@@ -479,7 +479,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jul 2022, 10:29:03 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 26 Jul 2022, 11:23:00 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
