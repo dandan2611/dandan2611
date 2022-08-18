@@ -234,7 +234,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Z3Prover/z3</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Z3 Theorem Prover</div>
@@ -287,7 +287,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bramp/ffmpeg-cli-wrapper</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Java wrapper around the FFmpeg command line tool</div>
@@ -474,7 +474,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Aug 2022, 12:27:35 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 18 Aug 2022, 13:20:34 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
