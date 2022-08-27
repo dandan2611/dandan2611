@@ -234,7 +234,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>electron/electron</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -290,7 +290,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>meilisearch/meilisearch</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.</div>
@@ -343,7 +343,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>novuhq/novu</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, content management, and much more...</div>
@@ -396,7 +396,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>supabase/supabase</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The open source Firebase alternative. Follow to stay updated about our public Beta.</div>
@@ -482,7 +482,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Aug 2022, 14:44:45 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 27 Aug 2022, 15:33:36 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
