@@ -234,7 +234,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nuxt/framework</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Hybrid Vue(3) Framework.</div>
@@ -482,7 +482,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Sept 2022, 13:22:04 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 7 Sept 2022, 14:53:03 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
