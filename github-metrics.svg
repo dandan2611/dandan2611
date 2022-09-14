@@ -234,7 +234,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>elastic/elasticsearch</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Free and Open, Distributed, RESTful Search Engine</div>
@@ -287,7 +287,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>qazbnm456/awesome-web-security</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🐶 A curated list of Web Security materials and resources.</div>
@@ -328,7 +328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jellyfin/jellyfin</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Free Software Media System</div>
@@ -381,7 +381,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>n8n-io/n8n</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.</div>
@@ -467,7 +467,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Sept 2022, 13:23:22 (timezone Europe/Paris) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 14 Sept 2022, 14:53:39 (timezone Europe/Paris) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
