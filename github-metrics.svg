@@ -234,7 +234,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fffaraz/awesome-cpp</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.</div>
@@ -334,7 +334,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zinclabs/zinc</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.</div>
@@ -473,7 +473,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Sept 2022, 08:14:43 (timezone Europe/Paris) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 28 Sept 2022, 09:38:25 (timezone Europe/Paris) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
