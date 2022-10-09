@@ -234,7 +234,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MathisVerstrepen/GameInBox-Website</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Main site of the GameInBox Minecraft survival server.</div>
@@ -334,7 +334,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GoogleContainerTools/kaniko</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build Container Images In Kubernetes</div>
@@ -482,7 +482,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Oct 2022, 10:33:25 (timezone Europe/Paris) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 9 Oct 2022, 11:28:16 (timezone Europe/Paris) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
