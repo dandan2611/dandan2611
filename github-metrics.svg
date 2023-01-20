@@ -234,7 +234,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>n64decomp/sm64</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Super Mario 64 decompilation, brought to you by a bunch of clever folks.</div>
@@ -387,7 +387,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jart/blink</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">tiniest x86-64-linux emulator</div>
@@ -486,7 +486,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jan 2023, 10:19:44 (timezone Europe/Paris) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 20 Jan 2023, 11:22:36 (timezone Europe/Paris) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
