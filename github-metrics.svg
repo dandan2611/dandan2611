@@ -234,7 +234,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>snesrev/zelda3</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -341,7 +341,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>unixorn/sysadmin-reading-list</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A reading and viewing list for larval stage sysadmins and SREs</div>
@@ -490,7 +490,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Feb 2023, 20:14:56 (timezone Europe/Paris) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 4 Feb 2023, 21:19:22 (timezone Europe/Paris) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
