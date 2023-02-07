@@ -234,7 +234,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EngineHub/WorldEdit</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🗺️ Minecraft map editor and mod</div>
@@ -287,7 +287,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Bukkit/Bukkit</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Minecraft Mod API</div>
@@ -340,7 +340,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TheGreyGhost/MinecraftByExample</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Working sample code for the basic concepts in Minecraft and Forge.</div>
@@ -393,7 +393,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MinecraftForge/MinecraftForge</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Modifications to the Minecraft base files to assist in compatibility between mods.</div>
@@ -492,7 +492,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Feb 2023, 22:17:57 (timezone Europe/Paris) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 7 Feb 2023, 23:19:35 (timezone Europe/Paris) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
