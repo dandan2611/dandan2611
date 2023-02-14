@@ -340,7 +340,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EngineHub/WorldEdit</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🗺️ Minecraft map editor and mod</div>
@@ -393,7 +393,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Bukkit/Bukkit</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Minecraft Mod API</div>
@@ -492,7 +492,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Feb 2023, 21:21:32 (timezone Europe/Paris) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 14 Feb 2023, 22:18:12 (timezone Europe/Paris) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
