@@ -334,7 +334,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>clap-rs/clap</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A full featured, fast Command Line Argument Parser for Rust</div>
@@ -486,7 +486,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Feb 2023, 12:16:09 (timezone Europe/Paris) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 19 Feb 2023, 13:36:36 (timezone Europe/Paris) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
